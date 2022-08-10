@@ -114,3 +114,14 @@ body {
   animation-duration: 2s; /* don't forget to set a duration! */
 }
 
+/* bee */
+
+#lightning {
+  font-size: 50px;
+  position: fixed;
+  top: 30px;
+  right: 5px;
+}
+ a {
+     text-decoration: none;
+    }
